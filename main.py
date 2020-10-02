@@ -15,7 +15,7 @@ elif dia >= 21 and mes == 6 or dia <= 22 and mes == 7:
     print("Eres Cancer")
 elif dia >= 23 and mes == 7 or dia <= 22 and mes == 8:
     print("Eres Leo")
-elif dia >= 23 and mes == 7 or dia <= 22 and mes == 9:
+elif dia >= 23 and mes == 8 or dia <= 22 and mes == 9:
     print("Eres Virgo")
 elif dia >= 23 and mes == 9 or dia <= 22 and mes == 10:
     print("Eres Libra")
